@@ -1,0 +1,10 @@
+node_modules
+.env
+coverage
+coverage.json
+temp
+*Prover.toml
+*Verifier.toml
+*plonk_vk.sol
+circuits/**/target*
+circuits/**/proofs*
